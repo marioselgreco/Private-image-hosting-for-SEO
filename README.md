@@ -16,5 +16,5 @@ Specifies the filename for download.
 Sets the content length.
 Outputs the text content.
 8. Exit: The script exits after echoing the text content to prevent any additional output.
-9. 
+
 This script essentially allows users to upload files, and upon submission, it generates a text file containing the URLs of the uploaded files, which can be downloaded by the user.
